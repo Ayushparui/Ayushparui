@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushparui" alt="ayushparui" /></a> </p>
 <!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+<video muted="" loop="" playsinline="" autoplay="" src="https://cdn.dribbble.com/users/1145170/videos/32068/smartsharp_15.mp4" __idm_id__="884760">
+        </video>
 
 <p align="left"> <a href="https://twitter.com/ayushparui" target="blank"><img src="https://img.shields.io/twitter/follow/ayushparui?logo=twitter&style=for-the-badge" alt="ayushparui" /></a> </p>
 
