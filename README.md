@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi<Img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-wave-gif.gif">, I'm Ayush</h1>
 <h3 align="center">Just Wandering Around 🥱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparui" /> </p>
