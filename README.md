@@ -17,7 +17,7 @@
 - 🎓 I’m an Coding enthusiast & a junior pursuing my Bachelors in Information Technology.
 - 👀 I’m highly interested in programming, developing projects and collaborating with such more developers.
 - 🌱 I’m currently learning Data Structures and Algorithms and web development.
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
