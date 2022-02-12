@@ -70,8 +70,8 @@
   </tr>
 </table>
 
-<!-- ### Contribution Graph 📈
-![geeky01adarsh's contribution graph](https://activity-graph.herokuapp.com/graph?username=ayushparui&custom_title=ayush's%20contribution%20in%20last%2031%20days&color=ffffff&line=faf5f2&point=f5e1d3&bg_color=cc5200&area=true&area_color=e65c00) -->
+### Contribution Graph 📈
+![ayush's contribution graph](https://activity-graph.herokuapp.com/graph?username=ayushparui&custom_title=ayush's%20contribution%20in%20last%2031%20days&color=ffffff&line=faf5f2&point=f5e1d3&bg_color=cc5200&area=true&area_color=e65c00)
 
 
 <p align="center"><!-- <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="ayushparui" />--> 
