@@ -42,9 +42,9 @@
       </tr>
       <tr>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="Git" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Github" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp; </td>
+<td width="250" align='center'>&nbsp;&nbsp;<img alt="R" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />&nbsp;&nbsp; </td>
 <!-- <img alt="JavaScript" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> -->
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="VS-Code" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;</td>
+<td width="250" align='center'>&nbsp;&nbsp;<img alt="Android" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />&nbsp;&nbsp;</td>
       </tr>
       </table>
 </p>
