@@ -16,7 +16,7 @@
 ### About Me 🚀
 - 🎓 I’m an Coding enthusiast & a junior pursuing my Bachelors in Information Technology.
 - 👀 I’m highly interested in programming, developing projects and collaborating with such more developers.
-- 🌱 I’m currently learning Data Structures and Algorithms and web development.
+- 🌱 I’m currently learning Data Structures and Algorithms and Android development.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -75,7 +75,6 @@
 
 
 <p align="center"><!-- <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="ayushparui" />--> 
-</br>   Find the repos I'm proud of, below in my pinned repos. </br>Please provide support by giving star if you liked it.</br>
 🧡 Thank you for visiting my Github Profile 🧡
 
 </p>
