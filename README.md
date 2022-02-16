@@ -1,5 +1,6 @@
 ### Hi there 👋
-<h1 align="center">Hi<Img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-wave-gif.gif">, I'm Ayush</h1>
+<!-- <Img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-wave-gif.gif">, -->
+<h1 align="center">Hi I'm Ayush</h1>
 <h3 align="center">Just Wandering Around 🥱</h3>
 <p align='center'>
    <img src="https://readme-typing-svg.herokuapp.com?color=e96443&size=40&width=900&height=80&lines=Welcome-to-My-Github-Profile"/>
