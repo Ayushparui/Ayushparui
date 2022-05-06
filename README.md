@@ -4,6 +4,8 @@
 <h3 align="center">Just Wandering Around 🥱</h3>
 <p align='center'>
    <img src="https://readme-typing-svg.herokuapp.com?color=e96443&size=40&width=900&height=80&lines=Welcome-to-My-Github-Profile"/>
+ </p>
+<!--         
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="ayushparui" /> </p>
