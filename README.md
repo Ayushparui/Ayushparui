@@ -28,6 +28,7 @@
 <a href="https://twitter.com/ayushparui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushparui" height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/ayushparui342/ target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayushparui342" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushparui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushparui" height="30" width="40" /></a>
+<a href="https://www.f6s.com/ayush-parui?follow=1" target="_blank" title="Follow Ayush Parui on F6S"><img src="https://www.f6s.com/static-resource/images/f6s-follow-secondary.png?u=5e26a83ddf06d9933b768ae4b22b10ed" border="0" width="78" height="22 " alt="Follow Ayush Parui on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
 </p>
 
 <h2>Languages and Tools 🛠</h2>
