@@ -54,28 +54,13 @@
 </p>
 
 
-<!--GitHub Stats-->
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">My GitHub's Stats</h2>
-</p>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ayushparui&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Ayush's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushparui&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&theme=cobalt" alt="Ayush's Top Languages" /></td>
-  </tr>
-</table>
+<!--QUINE-->
 
 
-<table align='center'>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparui&layout=compact" alt="Ayush's Contribution stats" /></td>
-  </tr>
-</table>
+[![Ayushparui's GitHub | Languages Over Time](https://stats.quine.sh/Ayushparui/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ayushparui)
 
 ### Contribution Graph 📈
-![ayush's contribution graph](https://activity-graph.herokuapp.com/graph?username=ayushparui&custom_title=ayush's%20contribution%20in%20last%2031%20days&color=ffffff&line=faf5f2&point=f5e1d3&bg_color=cc5200&area=true&area_color=e65c00)
+[![Ayushparui's GitHub | Topics Over Time](https://stats.quine.sh/Ayushparui/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ayushparui)
 
 
 <p align="center"><!-- <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="ayushparui" />--> 
