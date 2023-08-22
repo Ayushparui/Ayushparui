@@ -32,26 +32,9 @@
 </p>
 
 <h2>Languages and Tools 🛠</h2>
-<p align='center'>
-   <table align='center' width='250px'>
-      <tr>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="C" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Bootstrap" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Java" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;</td>
-      </tr>
-      <tr>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Java" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="HTML5" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="CSS3" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;&nbsp;</td>
-      </tr>
-      <tr>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Git" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="R" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />&nbsp;&nbsp; </td>
-<!-- <img alt="JavaScript" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> -->
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Android" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />&nbsp;&nbsp;</td>
-      </tr>
-      </table>
-</p>
+
+   [![Ayushparui's GitHub | Dependencies](https://stats.quine.sh/Ayushparui/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ayushparui)
+
 
 
 <!--QUINE-->
@@ -61,6 +44,8 @@
 
 ### Contribution Graph 📈
 [![Ayushparui's GitHub | Topics Over Time](https://stats.quine.sh/Ayushparui/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ayushparui)
+
+
 
 
 <p align="center"><!-- <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="ayushparui" />--> 
