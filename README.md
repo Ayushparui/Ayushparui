@@ -46,6 +46,8 @@
 [![Ayushparui's GitHub | Topics Over Time](https://stats.quine.sh/Ayushparui/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ayushparui)
 
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayushparui&limit=20&theme=nightowl&combine_all_yearly_contributions=true)
 
 
 <p align="center"><!-- <img src="https://komarev.com/ghpvc/?username=ayushparui&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="ayushparui" />--> 
