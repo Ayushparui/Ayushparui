@@ -16,11 +16,6 @@
 
 <!-- <p align="left"><a href="https://twitter.com/ayushparui" target="blank"><img src="https://img.shields.io/twitter/follow/ayushparui?logo=twitter&style=for-the-badge" alt="ayushparui" /></a></p> -->
 
-### About Me 🚀
-- 🎓 I’m currently enrolled for Bachelors in Information Technology.
-- 👀 I’m highly interested in programming, developing projects and collaborating with such more developers.
-- 🌱 I’m currently learning Data Structures and Algorithms and MERN Stack Development.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
